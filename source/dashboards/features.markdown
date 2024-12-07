@@ -472,7 +472,7 @@ type:
 
 ## Media player volume
 
-Widget that displays a slider to select the volume for a [media player](/integrations/media_player).
+Widget that displays a slider to control the volume for a [media player](/integrations/media_player).
 
 <p class='img'>
   <img src='/images/dashboards/features/media_player_volume.png' alt='Screenshot of the tile card with media player volume feature'>
